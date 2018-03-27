@@ -10,4 +10,4 @@ python bitcoin_ifttt_notification.py <ifttt_webhook_key>
 
 - Each execution check if there are some recently price on DB, if not check it in coinmarketcap api and save it on DB. If the price reach the limit configured use another ifttt webhook. 
 
-Based on `https://realpython.com/python-bitcoin-ifttt/#sending-a-test-ifttt-notification` 
+Based on https://realpython.com/python-bitcoin-ifttt/#sending-a-test-ifttt-notification 
